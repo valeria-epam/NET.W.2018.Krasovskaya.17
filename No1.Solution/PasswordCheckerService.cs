@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace No1.Solution
+﻿namespace No1.Solution
 {
     public class PasswordCheckerService : IPasswordRules
     {

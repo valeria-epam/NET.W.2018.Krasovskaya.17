@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using Moq;
 using NUnit.Framework;
 
 namespace No3.Solution.Tests
